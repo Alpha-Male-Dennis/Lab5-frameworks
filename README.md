@@ -5,9 +5,9 @@
 
 ## Project Overview
 This project explores three modern frontend technologies:
-1. **Bootstrap 5** - For rapid UI development
-2. **Tailwind CSS** - For utility-first styling
-3. **React.js** - For interactive components
+1. Bootstrap 5 - For rapid UI development
+2. Tailwind CSS- For utility-first styling
+3. app.js - For interactive components
 
 Each implementation showcases unique capabilities while building responsive web interfaces.
 
@@ -36,7 +36,7 @@ Bootstrap provided the fastest development experience with its pre-built compone
 ### Experience Notes
 Tailwind's utility classes offered incredible design flexibility. The learning curve was steeper than Bootstrap, but the payoff was pixel-perfect control over styling. The ability to create custom configurations was particularly valuable. The main challenge was the verbosity of class names in the HTML.
 
-## React.js Implementation
+## app.js Implementation
 
 ### Key Features
 - State management with useState hook
@@ -54,7 +54,7 @@ React's component system made the interactive elements a pleasure to build. Comb
 
 **Tailwind CSS** offers unparalleled styling control through utility classes. While initially overwhelming, it enables consistent, custom designs without writing CSS files. Performance is excellent due to PurgeCSS optimization.
 
-**React.js** provides the best solution for interactive elements and complex state management. When paired with Tailwind, it creates a maintainable component architecture with design flexibility.
+**app.js** provides the best solution for interactive elements and complex state management. When paired with Tailwind, it creates a maintainable component architecture with design flexibility.
 
 ## Conclusion
 
